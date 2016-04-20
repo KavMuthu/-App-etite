@@ -13,12 +13,21 @@ Android application which creates an ecosystem for anyone who cooks to sell thei
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The distance from the user’s current location to the chef’s is displayed for each chef.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The chefs who are enrolled for a particular cuisine will be listed based on the proximity to the user.<br/>
 ­● Image storage and Retrieval Module<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The chef can upload an image while enrolling for an item listed in the menu list<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The picture uploaded by the chef will be visible to the users upon selected that particular chef.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The chef can upload an image of the prepared dish <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The picture uploaded by the chef will be visible to the users upon selecting the particular chef and his/her dish.<br/>
 ­● Search – the user can search by cuisine and by dish name by either typing it or through voice input.<br/>
 ­● Notification Module<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The chef gets notified when the user places an order for an item for which he has enrolled.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The user gets notified when the chef replies to let him know the pickup time.<br/>
 
+#Technology
+<ul>
+<li>
+Android
+Google OAuth API, Google Maps API
+Dropbox API
+Firebase
+</li>
+<ul>
 #Demo
 https://youtu.be/jWSDPIKoKn0		
