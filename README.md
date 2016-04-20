@@ -1,8 +1,6 @@
 # 'App'etite
-
 #Objective
 Android application which creates an ecosystem for anyone who cooks to sell their products to anyone who wants to buy within a locality.
-
 #Features
 ­ ● Eat Module – Users register/sign in to buy dishes<br/>
 ­ ● Cook Module – Chefs register/sign in to post cooked dishes<br/>
@@ -19,7 +17,6 @@ Android application which creates an ecosystem for anyone who cooks to sell thei
 ­● Notification Module<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The chef gets notified when the user places an order for an item for which he has enrolled.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		- The user gets notified when the chef replies to let him know the pickup time.<br/>
-
 #Technology
 <ul>
 <li>Android</li>
