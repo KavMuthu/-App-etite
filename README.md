@@ -22,12 +22,10 @@ Android application which creates an ecosystem for anyone who cooks to sell thei
 
 #Technology
 <ul>
-<li>
-Android
-Google OAuth API, Google Maps API
-Dropbox API
-Firebase
-</li>
-<ul>
+<li>Android</li>
+<li>Google OAuth API, Google Maps API</li>
+<li>Dropbox API</li>
+<li>Firebase</li>
+</ul>
 #Demo
 https://youtu.be/jWSDPIKoKn0		
