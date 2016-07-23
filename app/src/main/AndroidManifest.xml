@@ -26,33 +26,24 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
-        <activity android:name=".LaunchScreen"
-                  android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".LaunchScreen"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"
-                  android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Login" />
-        <activity android:name=".ChefRegister" />
         <activity android:name=".MenuList" />
-        <activity android:name=".ReviiewList" />
-        <activity android:name=".AddReviewActivity" />
-        <activity android:name=".ChefMenuItemActivity" />
-        <activity android:name=".ChefMenuInfo" />
-        <activity android:name=".CustomerRegister" />
-        <activity android:name=".ChefProfile" />
-        <activity android:name=".ChefsEnrolledActivity" />
-        <activity android:name=".DishDetailsActivity" />
-        <activity android:name=".ReviewsCookModuleActivity" />
-        <activity android:name=".MapActivity" />
-        <activity android:name=".ChefUsersMapActivity" />
-        <activity android:name=".OrderConfirmation" />
-        <activity android:name=".UserNotifiedActivity" />
-
+        <activity
+            android:name=".DishInfo"
+            android:label="@string/title_activity_dish_info"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
