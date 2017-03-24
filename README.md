@@ -1,8 +1,8 @@
-## 'App'etite
+# 'App'etite
 
-# Objective
+## Objective
 Android application which creates an ecosystem for anyone who cooks to sell their products to anyone who wants to buy within a locality.
-# Features
+## Features
 <dl>
 <dt>Eat Module</dt>
 <dd>– Users register/sign in to buy dishes</dd>
@@ -28,12 +28,12 @@ Android application which creates an ecosystem for anyone who cooks to sell thei
 <dd>	- The chef gets notified when the user places an order for an item for which he has enrolled.</dd> 
 <dd>	- The user gets notified when the chef replies to let him know the pickup time.</dd>
 </dl>
-# Technology
+## Technology
 <ul>
 <li>Android</li>
 <li>Google OAuth API, Google Maps API</li>
 <li>Dropbox API</li>
 <li>Firebase</li>
 </ul>
-# Demo
+## Demo
 https://youtu.be/jWSDPIKoKn0		
