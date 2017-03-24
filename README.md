@@ -28,6 +28,7 @@ Android application which creates an ecosystem for anyone who cooks to sell thei
 <dd>	- The chef gets notified when the user places an order for an item for which he has enrolled.</dd> 
 <dd>	- The user gets notified when the chef replies to let him know the pickup time.</dd>
 </dl>
+
 ## Technology
 <ul>
 <li>Android</li>
@@ -35,5 +36,6 @@ Android application which creates an ecosystem for anyone who cooks to sell thei
 <li>Dropbox API</li>
 <li>Firebase</li>
 </ul>
+
 ## Demo
 https://youtu.be/jWSDPIKoKn0		
